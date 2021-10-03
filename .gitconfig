@@ -1,0 +1,7 @@
+[user]
+	name = Aliev Fetibek
+	email = feti.aliev@gmail.com
+[core]
+	autocrlf = true
+	safecrlf = warn
+	quotepath = off
